@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills]  <img src="./icons/Python-Dark.svg" width="48">  ](https://skillicons.dev)
 <!--
 **luisarochi/luisarochi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
